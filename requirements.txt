@@ -3,3 +3,5 @@ pandas
 matplotlib
 transformers
 streamlit-chat
+tenserflow 
+torch 
