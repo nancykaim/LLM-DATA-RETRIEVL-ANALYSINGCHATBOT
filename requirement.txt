@@ -1,7 +1,5 @@
 streamlit
 pandas
-matplotlib 
-matplotlib.pyplot
+matplotlib
 transformers
-streamlit_chat
-tempfile
+streamlit-chat
