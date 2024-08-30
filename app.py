@@ -63,7 +63,7 @@ if 'dataframe' not in st.session_state:
 # Custom CSS for theme
 
 # Web Application
-st.title("TWINCY AI CHATBOT 📝")
+st.title("NANCY AI CHATBOT 📝")
 st.write(' ')
 st.markdown("⎛⎝ ≽  >  ⩊   < ≼ ⎠⎞")
 
