@@ -1,6 +1,7 @@
 
 # AI Chat Interface for Instant Insights 
-## Test the app : https://nancykaimllm1.streamlit.app
+## 💬 Get Started 
+https://nancykaimllm1.streamlit.app
 
 ## 🚀 The Problem
 Traditional data retrieval is slow and cumbersome. Non-technical users struggle with complex SQL queries, leading to delays and inefficiencies.
@@ -32,5 +33,3 @@ Introducing an AI-powered chat interface that leverages Google's TAPAS model to 
 - **Prototype & Integrate:** Fine-tune and integrate the system into your workflow.
 - **Continuous Optimization:** Regular updates and improvements based on user feedback.
 
-## 💬 Get Started
-Transform your data querying experience. Let’s unlock the power of your data together with our AI chat interface!
