@@ -1,0 +1,7 @@
+streamlit
+pandas
+matplotlib 
+matplotlib.pyplot
+transformers
+streamlit_chat
+tempfile
